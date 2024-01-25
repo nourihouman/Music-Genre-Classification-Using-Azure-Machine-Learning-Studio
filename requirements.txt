@@ -1,0 +1,197 @@
+absl-py==2.1.0
+adal==1.2.7
+aiosignal==1.3.1
+alembic==1.11.1
+argcomplete==2.1.2
+asttokens @ file:///home/conda/feedstock_root/build_artifacts/asttokens_1670263926556/work
+astunparse==1.6.3
+attrs==23.1.0
+audioread==3.0.1
+azure-ai-ml==1.8.0
+azure-common==1.1.28
+azure-core==1.27.1
+azure-graphrbac==0.61.1
+azure-identity==1.13.0
+azure-mgmt-authorization==3.0.0
+azure-mgmt-containerregistry==10.1.0
+azure-mgmt-core==1.4.0
+azure-mgmt-keyvault==10.2.2
+azure-mgmt-resource==22.0.0
+azure-mgmt-storage==21.0.0
+azure-storage-blob==12.16.0
+azure-storage-file-datalake==12.11.0
+azure-storage-file-share==12.12.0
+azureml-core==1.51.0.post1
+azureml-dataprep==4.11.3
+azureml-dataprep-native==38.0.0
+azureml-dataprep-rslex==2.18.3
+azureml-fsspec==1.1.0
+azureml-mlflow==1.51.0
+backcall @ file:///home/conda/feedstock_root/build_artifacts/backcall_1592338393461/work
+backports.functools-lru-cache @ file:///home/conda/feedstock_root/build_artifacts/backports.functools_lru_cache_1618230623929/work
+backports.tempfile==1.0
+backports.weakref==1.0.post1
+bcrypt==4.0.1
+blinker==1.6.2
+cachetools==5.3.1
+certifi==2023.5.7
+cffi==1.15.1
+charset-normalizer==3.1.0
+click==8.0.4
+cloudpickle==2.2.1
+colorama==0.4.6
+contextlib2==21.6.0
+contourpy==1.1.0
+cryptography==41.0.1
+cycler==0.11.0
+Cython==0.29.35
+databricks-cli==0.17.7
+debugpy @ file:///home/builder/ci_310/debugpy_1640789504635/work
+decorator @ file:///home/conda/feedstock_root/build_artifacts/decorator_1641555617451/work
+distlib==0.3.6
+distro==1.8.0
+docker==6.1.3
+dotnetcore2==3.1.23
+entrypoints @ file:///home/conda/feedstock_root/build_artifacts/entrypoints_1643888246732/work
+executing @ file:///home/conda/feedstock_root/build_artifacts/executing_1667317341051/work
+filelock==3.12.2
+Flask==2.3.2
+flatbuffers==23.5.26
+fonttools==4.40.0
+frozenlist==1.3.3
+fsspec==2023.6.0
+gast==0.5.4
+gitdb==4.0.10
+GitPython==3.1.31
+google-api-core==2.11.1
+google-auth==2.20.0
+google-auth-oauthlib==1.2.0
+google-pasta==0.2.0
+googleapis-common-protos==1.59.1
+greenlet==2.0.2
+grpcio==1.60.0
+gunicorn==20.1.0
+h5py==3.10.0
+humanfriendly==10.0
+idna==3.4
+imageio==2.31.1
+importlib-metadata==6.7.0
+ipykernel @ file:///home/conda/feedstock_root/build_artifacts/ipykernel_1655369107642/work
+ipython @ file:///home/conda/feedstock_root/build_artifacts/ipython_1685727741709/work
+isodate==0.6.1
+itsdangerous==2.1.2
+jedi @ file:///home/conda/feedstock_root/build_artifacts/jedi_1669134318875/work
+jeepney==0.8.0
+Jinja2==3.1.2
+jmespath==1.0.1
+joblib==1.2.0
+jsonpickle==3.0.1
+jsonschema==4.17.3
+jupyter-client @ file:///home/conda/feedstock_root/build_artifacts/jupyter_client_1654730843242/work
+jupyter_core @ file:///home/conda/feedstock_root/build_artifacts/jupyter_core_1686775611663/work
+keras==2.15.0
+kiwisolver==1.4.4
+knack==0.10.1
+lazy_loader==0.2
+libclang==16.0.6
+librosa==0.10.1
+llvmlite==0.41.1
+Mako==1.2.4
+Markdown==3.4.3
+MarkupSafe==2.1.3
+marshmallow==3.19.0
+matplotlib==3.7.1
+matplotlib-inline @ file:///home/conda/feedstock_root/build_artifacts/matplotlib-inline_1660814786464/work
+ml-dtypes==0.2.0
+mldesigner==0.1.0b13
+mlflow==2.4.1
+mlflow-skinny==2.4.1
+mltable==1.4.1
+msal==1.22.0
+msal-extensions==1.0.0
+msgpack==1.0.5
+msrest==0.7.1
+msrestazure==0.6.4
+ndg-httpsclient==0.5.1
+nest-asyncio @ file:///home/conda/feedstock_root/build_artifacts/nest-asyncio_1664684991461/work
+networkx==3.1
+numba==0.58.1
+numpy==1.25.0
+oauthlib==3.2.2
+opencensus==0.11.2
+opencensus-context==0.1.3
+opencensus-ext-azure==1.1.9
+opt-einsum==3.3.0
+packaging==23.0
+pandas==2.0.2
+paramiko==3.2.0
+parso @ file:///home/conda/feedstock_root/build_artifacts/parso_1638334955874/work
+pathspec==0.11.1
+pexpect @ file:///home/conda/feedstock_root/build_artifacts/pexpect_1667297516076/work
+pickleshare @ file:///home/conda/feedstock_root/build_artifacts/pickleshare_1602536217715/work
+Pillow==9.5.0
+pkginfo==1.9.6
+platformdirs @ file:///home/conda/feedstock_root/build_artifacts/platformdirs_1687097136512/work
+pooch==1.8.0
+portalocker==2.7.0
+prompt-toolkit @ file:///home/conda/feedstock_root/build_artifacts/prompt-toolkit_1677600924538/work
+protobuf==3.20.3
+psutil @ file:///opt/conda/conda-bld/psutil_1656431268089/work
+ptyprocess @ file:///home/conda/feedstock_root/build_artifacts/ptyprocess_1609419310487/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
+pure-eval @ file:///home/conda/feedstock_root/build_artifacts/pure_eval_1642875951954/work
+pyarrow==12.0.1
+pyasn1==0.5.0
+pyasn1-modules==0.3.0
+pycparser==2.21
+pydash==5.1.2
+Pygments @ file:///home/conda/feedstock_root/build_artifacts/pygments_1681904169130/work
+PyJWT==2.7.0
+PyNaCl==1.5.0
+pyOpenSSL==23.2.0
+pyparsing==3.1.0
+pyrsistent==0.19.3
+PySocks==1.7.1
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1626286286081/work
+pytz==2023.3
+PyWavelets==1.4.1
+PyYAML==6.0
+pyzmq @ file:///croot/pyzmq_1686601365461/work
+querystring-parser==1.2.4
+ray==2.0.0
+requests==2.31.0
+requests-oauthlib==1.3.1
+rsa==4.9
+scikit-image==0.21.0
+scikit-learn==1.2.2
+scipy==1.10.1
+seaborn==0.13.1
+SecretStorage==3.3.3
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+smmap==5.0.0
+soundfile==0.12.1
+soxr==0.3.7
+SQLAlchemy==2.0.16
+sqlparse==0.4.4
+stack-data @ file:///home/conda/feedstock_root/build_artifacts/stack_data_1669632077133/work
+strictyaml==1.7.3
+tabulate==0.9.0
+tensorboard==2.15.1
+tensorboard-data-server==0.7.2
+tensorflow==2.15.0.post1
+tensorflow-estimator==2.15.0
+tensorflow-io-gcs-filesystem==0.35.0
+termcolor==2.4.0
+threadpoolctl==3.1.0
+tifffile==2023.4.12
+tornado @ file:///home/conda/feedstock_root/build_artifacts/tornado_1648827254365/work
+tqdm==4.65.0
+traitlets @ file:///home/conda/feedstock_root/build_artifacts/traitlets_1675110562325/work
+typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1685704949284/work
+tzdata==2023.3
+urllib3==1.26.16
+virtualenv==20.23.1
+wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1673864653149/work
+websocket-client==1.6.0
+Werkzeug==2.3.6
+wrapt==1.14.1
+zipp==3.15.0
